@@ -1,3 +1,5 @@
+# IGNORE THE PYTHON THING FROM GITHUB IT BUGGED AND DID PYTHON INSTEAD OF NODE.JS
+
 # Discord OG Role & Viewer Bot
 
 A powerful and easy-to-use Discord bot designed to:
